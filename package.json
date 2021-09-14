@@ -1,6 +1,6 @@
 {
   "name": "cra-template-phectr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -16,6 +16,14 @@
   ],
   "description": "Create React App template with Pullstate, Helmet, Emotion, Chakra UI, TailwindCSS (twin.macro) and React Router.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tronexis/cra-template-phectr.git",
+    "directory": "packages/cra-template"
+  },
+  "bugs": {
+    "url": "https://github.com/tronexis/cra-template-phectr/issues"
+  },
   "engines": {
     "node": ">=14"
   },

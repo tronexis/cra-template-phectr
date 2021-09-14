@@ -1,4 +1,4 @@
-import { Helmet as Head } from "react-helmet";
+import { Helmet as Head } from "react-helmet-async";
 import tw, { styled } from "twin.macro";
 
 const Layout = ({ title, description, children, ...props }) => {

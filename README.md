@@ -2,7 +2,7 @@
 
 ---
 
-- Styling: Emotion + TailwindCSS + Twin.Macro + Chakra UI
-- State Management: Pullstate
-- Routing: React Router DOM
-- Webpack Overrides: CRACO
+- **Styling:** Emotion + TailwindCSS + Twin.Macro + Chakra UI
+- **State Management:** Pullstate
+- **Routing:** React Router DOM
+- **Webpack Overrides:** CRACO

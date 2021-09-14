@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-phectr",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "chakra-ui",
+    "tailwindcss",
+    "emotion",
+    "styled",
+    "craco",
+    "react-helmet-async",
+    "pullstate",
+    "react-router-dom"
+  ],
+  "description": "Create React App template with Pullstate, Helmet, Emotion, Chakra UI, TailwindCSS (twin.macro) and React Router.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  }
+}
